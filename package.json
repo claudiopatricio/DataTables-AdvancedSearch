@@ -1,0 +1,24 @@
+{
+	"name": "datatables-advancedsearch",
+	"version": "1.0.0",
+	"description": "Advanced Search extension for DataTables",
+	"main": "dataTables.advancedSearch.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/claudiopatricio/DataTables-AdvancedSearch"
+	},
+	"keywords": [
+		"datatables",
+		"search"
+	],
+	"dependencies": {
+		"jquery": ">=1.7",
+		"datatables.net": ">=1.10.8"
+	},
+	"author": "cpatricio@ua.pt",
+	"bugs": {
+		"url": "https://github.com/claudiopatricio/DataTables-AdvancedSearch/issues"
+	},
+	"homepage": "https://github.com/claudiopatricio/DataTables-AdvancedSearch",
+	"license": "MIT"
+}
